@@ -1,0 +1,121 @@
+{
+  "slug": "developer-studio",
+  "host": "developer",
+  "title": "Developer Studio",
+  "tagline": "Code, API, schema and plugins",
+  "description": "Write and test code across languages, HTML/CSS, JS/TS, SQL, and GraphQL. Build and debug REST API requests and workflows, configure webhooks and JSON schemas, craft regex and formulas, and develop plugins and SDK extensions.",
+  "editors": [
+    {
+      "category": "Developer Editors",
+      "name": "Code Editor",
+      "desc": "Multi-language code editing with IntelliSense"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "HTML/CSS Editor",
+      "desc": "Markup and styling editor"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "JavaScript/TypeScript Editor",
+      "desc": "JS/TS development environment"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "JSON/YAML/XML Editor",
+      "desc": "Structured data format editing"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "SQL Editor",
+      "desc": "Database query writing"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "GraphQL Editor",
+      "desc": "Schema and query editor"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "API Request Editor",
+      "desc": "HTTP request testing (REST)"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "API Workflow Editor",
+      "desc": "Multi-step API orchestration"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Webhook Editor",
+      "desc": "Webhook configuration and testing"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "JSON Schema Editor",
+      "desc": "JSON Schema definition"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Regular Expression Editor",
+      "desc": "Regex building and testing"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Formula Editor",
+      "desc": "Expression/formula builder"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Template Syntax Editor",
+      "desc": "Template language editing"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Component Code Editor",
+      "desc": "UI component code development"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Plugin Editor",
+      "desc": "Plugin/extension development"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "SDK Playground",
+      "desc": "SDK testing sandbox"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Environment Editor",
+      "desc": "Env variable management"
+    },
+    {
+      "category": "Developer Editors",
+      "name": "Git/Diff Editor",
+      "desc": "Version control diff viewing"
+    }
+  ],
+  "services": [
+    [
+      "codegen",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "collaboration",
+      "gap"
+    ]
+  ]
+}
